@@ -1,5 +1,5 @@
 # Nadocast_Zoom
-View nadocast output (credit: Brian Hempel https://github.com/brianhempel/nadocast)
+View Nadocast output (credit: Brian Hempel https://github.com/brianhempel/nadocast) zoomed in at level of user's choice
 
 Key Inputs
 
